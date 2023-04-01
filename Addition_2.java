@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Addition {
+public class Addition_2 {
     public static void main(String[] args) {
         int x ,y ,z;
         System.out.println("Enter two Integer to calculate their sum");
