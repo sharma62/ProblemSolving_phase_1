@@ -14,3 +14,9 @@ ProblemSolving_phase_1 is Basic question attempting
 3. If Else Example 
 4. While Loop Example  
 5. Do Loop Example  
+6. For Loop Example
+7. switch 
+8. Continue  
+9. OddEven Example
+10. Largest Of Three number 
+11. Prime number (First n prime number)
