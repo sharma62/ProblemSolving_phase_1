@@ -20,3 +20,8 @@ ProblemSolving_phase_1 is Basic question attempting
 9. OddEven Example
 10. Largest Of Three number 
 11. Prime number (First n prime number)
+12. PlanidromeNumber.java
+13. Factorial
+14. Factorial using Recursion
+15. Area of Circle
+16
