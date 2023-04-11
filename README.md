@@ -25,4 +25,4 @@ ProblemSolving_phase_1 is Basic question attempting
 14. Factorial using Recursion
 15. Area of Circle
 16. Area of rectangle
-17. bitwise operaor
+17. bitwise ADD
