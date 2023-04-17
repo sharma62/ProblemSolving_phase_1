@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 import javax.swing.text.PasswordView;
 
-public class SimpleInterest {
+public class SimpleInterest_18 {
     public static void main(String[] args) {
         
         Scanner scan = new Scanner(System.in);
