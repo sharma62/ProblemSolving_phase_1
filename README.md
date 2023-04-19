@@ -8,7 +8,7 @@ ProblemSolving_phase_1 is Basic question attempting
 *  And Excute the program.
 
 
-> ## Problem Name 
+> ## Problems Name 
 1. Hello World
 2. addition
 3. If Else Example 
